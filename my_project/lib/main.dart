@@ -8,7 +8,7 @@ void main() async {
   if (kIsWasm) {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyC83Q3yILvR0_1rwfhx-wCNmjg6SHY5XMU",
+        apiKey: "....wCNmjg6SHY5XMU",
         appId: "1:973605837252:web:59e5bc17bf0d85f17eec91",
         messagingSenderId: "973605837252",
         projectId: "todo-app-69963",
