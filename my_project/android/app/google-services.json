@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:973605837252:android:0f6e278d83c42b7f7eec91",
         "android_client_info": {
-          "package_name": "com.example.my_project"
+          "package_name": "com.example.Todo"
         }
       },
       "oauth_client": [],
